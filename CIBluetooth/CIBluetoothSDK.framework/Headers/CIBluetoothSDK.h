@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char CIBluetoothSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <CIBluetoothSDK/PublicHeader.h>
 
-#import <CIBluetoothSDK/<CIBluetoothTool.h>
+#import <CIBluetoothSDK/CIBluetoothTool.h>
