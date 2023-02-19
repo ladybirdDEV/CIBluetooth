@@ -1,0 +1,6 @@
+framework module CIBluetooth {
+  umbrella header "CIBluetooth.h"
+
+  export *
+  module * { export * }
+}

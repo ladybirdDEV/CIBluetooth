@@ -1,6 +1,0 @@
-framework module CIBluetoothSDK {
-  umbrella header "CIBluetoothSDK.h"
-
-  export *
-  module * { export * }
-}

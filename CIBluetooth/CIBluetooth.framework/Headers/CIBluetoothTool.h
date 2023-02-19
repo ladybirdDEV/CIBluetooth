@@ -7,14 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "CIBluetoothConst.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
 // 持续向外回调消息
 typedef void(^BluetoothResultCallback)(NSInteger callbackType, NSString * _Nullable callbackName, id _Nullable callbackParams, NSString * _Nullable errorString);
-
-typedef NSDictionary<CIBluetoothResKey, id> CIBluetoothRes;
 
 @interface CIBluetoothTool : NSObject
 

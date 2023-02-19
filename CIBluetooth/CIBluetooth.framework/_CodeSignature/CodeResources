@@ -4,71 +4,56 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CIBluetoothConst.h</key>
+		<key>Headers/CIBluetooth.h</key>
 		<data>
-		mjgkRRY2DTqnzpON3YKglmOiZT8=
-		</data>
-		<key>Headers/CIBluetoothSDK.h</key>
-		<data>
-		CNQ4hqzBq56cK99VOf65LfP4Y7g=
+		EnrmXiaiIW0zyYYC/nsIx854iiA=
 		</data>
 		<key>Headers/CIBluetoothTool.h</key>
 		<data>
-		PZBfL3nwJmJQtd3pG1O4CA0W3I4=
+		3ELAxFLkkqZbPFz5XdADVNucKac=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GFcs2QczahT242IAS06/TvM9YyU=
+		xXQwsuE4uMSgvD/4cuewpb2NpCY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		2G9m090ZbFIlI0B8uFqNWJy5WlU=
+		+d5fiCKHcPVXfX3EdksZCN405XA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CIBluetoothConst.h</key>
+		<key>Headers/CIBluetooth.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mjgkRRY2DTqnzpON3YKglmOiZT8=
+			EnrmXiaiIW0zyYYC/nsIx854iiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			EyRjmdodTnRr2kjKBpboonyyq+HcA1OU6OGe8XWujPQ=
-			</data>
-		</dict>
-		<key>Headers/CIBluetoothSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CNQ4hqzBq56cK99VOf65LfP4Y7g=
-			</data>
-			<key>hash2</key>
-			<data>
-			7Q7tcjslzpAmohp4jylQL+Efk0gxjYdiFhAuC8DiwIo=
+			nNcXIv5jZ1mzxPQ9Vnr94d//AXSbG5t6xuxxZUirir0=
 			</data>
 		</dict>
 		<key>Headers/CIBluetoothTool.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PZBfL3nwJmJQtd3pG1O4CA0W3I4=
+			3ELAxFLkkqZbPFz5XdADVNucKac=
 			</data>
 			<key>hash2</key>
 			<data>
-			ADLGZYRcipk0YGm/djZkDfsYkTxHNk1lG5qpeXsJz3Q=
+			nQ4p68fFDxNjWu/kW7t+j2mm2CewYngpstYvyeiAWZs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2G9m090ZbFIlI0B8uFqNWJy5WlU=
+			+d5fiCKHcPVXfX3EdksZCN405XA=
 			</data>
 			<key>hash2</key>
 			<data>
-			c03UCqhpx+KblF11gvRt9oCJreEuXnr3GmDSdrO20iQ=
+			7LySHU7gQmEbGyMV3y9HZjS/LNJliNltiK8kldNFj6Q=
 			</data>
 		</dict>
 	</dict>
